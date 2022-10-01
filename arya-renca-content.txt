@@ -3,9 +3,11 @@ Rencana KONTEN ARYA
 - Javascript
   - ES6
   - Framework Javascript
-    - Angular
+    - Vue
     - React
+- Struktur Data Dasar
 - PHP FrameWorks
   - Laravel
 - Interview
 - Vlogs
+- Python
