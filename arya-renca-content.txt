@@ -5,6 +5,7 @@ Rencana KONTEN ARYA
   - Framework Javascript
     - Vue
     - React
+    - Angular
 - Struktur Data Dasar
 - PHP FrameWorks
   - Laravel
